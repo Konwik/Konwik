@@ -1,4 +1,4 @@
-# I am Aarav Jain a  self taught-programmer and a student,learning every day
+# Python|PyTorch|JAX|C++|CUDA|TensorRT 
 
 ![3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
