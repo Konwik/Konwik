@@ -1,4 +1,4 @@
-# Python|PyTorch|JAX|C++|CUDA|TensorRT 
+# Python|PyTorch|JAX|C++|CUDA|Rust
 
 ![3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
